@@ -2,22 +2,22 @@
 # List of Graphics Teams in News
 
 ### What is this list?
-Visual journalists, graphics reporters or however they call themselves are doing an amazing job in creating compelling visual storytelling around the world. This list focuses not on their [projects](https://github.com/wbkd/awesome-interactive-journalism), but on the **teams**: How do they work? Who works in which team? 
+Visual journalists, graphics reporters or however they call themselves are doing an amazing job in creating compelling visual storytelling around the world. This list focuses not on their [projects](https://github.com/wbkd/awesome-interactive-journalism), but on the **teams**: How do they work? Who works in which team?
 
-### Why do we need that? 
-1. **To learn from each other.** Lots of graphics people gave/give amazing insights into their work; in talks or blog posts or daily on Twitter. Let’s compile this potential. 
+### Why do we need that?
+1. **To learn from each other.** Lots of graphics people gave/give amazing insights into their work; in talks or blog posts or daily on Twitter. Let’s compile this potential.
 2. **To get to know the smaller newsrooms.** We know the big player; but what happens outside of the US or the UK? Let’s get inspired by their work.
 
-### How can I contribute? 
+### How can I contribute?
 - Create a **pull request** [(like this)](https://github.com/sindresorhus/awesome/blob/master/contributing.md#adding-something-to-an-awesome-list)
 - If you’re not comfortable with that, create a new issue
 - Or write an email to [lisacharlotterost@gmail.com](mailto:lisacharlotterost@gmail.com)
 - If you add people, please make sure that they are **ok with being added**, if they don’t explicitly state their employer in their Twitter bio. If they don’t have Twitter, check their website/blog.
 
-### What information should I add? 
+### What information should I add?
 - **Name** of the team that creates charts / graphics / data vis. The list is currently sorted alphabetically. Maybe we’ll switch to a sorting by number of people later.
-- **Location and links to Twitter / Website / Blog / Github** 
-- **Links to specific blog posts / videos / interviews** that show how the team is working. Links should give insight into the process of past projects, general principles and approaches to problems, how tools are used etc. 
+- **Location and links to Twitter / Website / Blog / Github**
+- **Links to specific blog posts / videos / interviews** that show how the team is working. Links should give insight into the process of past projects, general principles and approaches to problems, how tools are used etc.
 - **Team members and links to their Twitter account** who currently create charts / graphics / data vis in these news rooms on a regular basis. Alumni should not be on this list (although I’m open to discussing that). Interns and fellows should not be added, since it's likely that we forget to remove them.
 
 <br><br>
@@ -35,12 +35,12 @@ New York City, US / [@538Viz](https://twitter.com/538viz) / [Website](https://pr
 
 ## AP Interactive
 [@AP_Interactive](https://twitter.com/AP_Interactive)
-* ? 
+* ?
 
 ## BCC News Graphics
 London, UK / [@BBCNewsGraphics](https://twitter.com/BBCNewsGraphics) / [Website](http://www.bbc.com/news/11628973)
 * [Bella Hurrel](https://twitter.com/BellaHurrell)
-* ? 
+* ?
 
 ## Berliner Morgenpost Interaktiv
 Berlin, Germany / [Website](http://www.morgenpost.de/interaktiv/) / [Github](https://github.com/berlinermorgenpost)
@@ -52,7 +52,7 @@ Berlin, Germany / [Website](http://www.morgenpost.de/interaktiv/) / [Github](htt
 * ?
 
 ## Bloomberg Visual Data
-New York City, US / [@BBGVisualData](https://twitter.com/BBGVisualData) / [Website](http://www.bloomberg.com/graphics) 
+New York City, US / [@BBGVisualData](https://twitter.com/BBGVisualData) / [Website](http://www.bloomberg.com/graphics)
 * 2014: [Lisa Strausfeld & Christopher Cannon: From Explanation to Exploration](https://www.youtube.com/watch?v=Qm4Ilw76hTI)
 * -------
 * [Blacki Migliozzi](https://twitter.com/blackili)
@@ -69,7 +69,7 @@ New York City, US / [@BBGVisualData](https://twitter.com/BBGVisualData) / [Websi
 * ?
 
 ## Boston Globe
-* ? 
+* ?
 
 ## BuzzFeed News
 [Github](https://github.com/BuzzFeedNews)
@@ -83,12 +83,28 @@ New York City, US / [@BBGVisualData](https://twitter.com/BBGVisualData) / [Websi
 * [Joshua Hatch](https://twitter.com/hatchjt)
 * ?
 
+## The Dallas Morning News
+Dallas, Texas / [Website](http://interactives.dallasnews.com) / [@dmninteractives](https://twitter.com/dmninteractives) / [Github](https://github.com/dallasmorningnews)
+
+Data & news apps team:
+
+* [Jon McClure](https://twitter.com/jonrmcclure), editor
+* [Andrew Chavez](https://twitter.com/adchavez)
+* [Ariana Giorgi](https://twitter.com/arianangiorgi)
+* [Allan James Vestal](https://twitter.com/allanjvestal)
+
+Interactives team:
+
+* [John Hancock](https://twitter.com/Hancock_JohnD), interim editor
+* [Dana Amihere](https://twitter.com/write_this_way)
+* [Layne Smith](https://twitter.com/LayneSmith)
+
 ## Economist
 London, UK / [@ECONDailyChart](https://twitter.com/ECONdailycharts)
-* ? 
+* ?
 
 ## Financial Times Data
-London, UK / [@FTData](https://twitter.com/ftdata) / [Website](https://www.ft.com/ft-data) / [Blog](https://www.ft.com/chart-doctor) 
+London, UK / [@FTData](https://twitter.com/ftdata) / [Website](https://www.ft.com/ft-data) / [Blog](https://www.ft.com/chart-doctor)
 * [Alan Smith](https://twitter.com/theboysmithy)
 * [Alexandra Wisniewska](https://twitter.com/alekswis)
 * [John Burn-Murdoch](https://twitter.com/jburnmurdoch)
@@ -106,7 +122,7 @@ London, UK / [@GuardianData](https://twitter.com/GuardianData) / [Website](https
 * -------
 * ?
 
-## Huffington Post Data 
+## Huffington Post Data
 [@HuffPostData](https://twitter.com/huffpostdata) / [Website](http://data.huffingtonpost.com/) / [Github](https://github.com/huffpostdata)
 * ?
 
@@ -119,14 +135,14 @@ Los Angeles, US / [@LATimesGraphics](https://twitter.com/LATimesGraphics) / [Web
 
 ## National Geographic
 * [Alberto Lucas Lopez](https://twitter.com/aLucasLopez)
-* ? 
+* ?
 
 ## NBC News
 * [Sam Petulla](https://twitter.com/spetulla)
 
 ## New York Magazine
 * [Ashley Wu](https://twitter.com/ashhwu)
-* ? 
+* ?
 
 ## New York Times Graphics
 [@nytgraphics](https://twitter.com/nytgraphics) / [Website](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html?_r=0) / [Github](https://github.com/newsdev)
@@ -160,7 +176,7 @@ Los Angeles, US / [@LATimesGraphics](https://twitter.com/LATimesGraphics) / [Web
 * [Tom Giratikanon](https://twitter.com/giratikanon)
 * [Quoctrung Bui](https://twitter.com/qdbui)
 * [Wilson Andrews](https://twitter.com/wilsonandrews)
-* ? 
+* ?
 
 ## NPR Visuals Team
 Washington, DC, US / [@nprviz](https://twitter.com/nprviz) / [Website](http://blog.apps.npr.org/) / [Blog](http://blog.apps.npr.org/blog/)
@@ -170,7 +186,7 @@ Washington, DC, US / [@nprviz](https://twitter.com/nprviz) / [Website](http://bl
 * [Juan Elosua](https://twitter.com/jjelosua)
 * [Katie Park](https://twitter.com/katiepark)
 * [Tyler Fisher](https://twitter.com/tylrfishr)
-* ? 
+* ?
 
 ## NZZ Storytelling
 Zurich, Switzerland / [@NZZStorytelling](https://twitter.com/NZZStorytelling) / [Website](https://www.nzz.ch/storytelling)
@@ -190,7 +206,7 @@ New York City, US / [Website](https://www.propublica.org/data/)
 * [Lena Groeger](https://twitter.com/lenagroeger)
 * [Scott Klein](https://twitter.com/kleinmatic)
 * [Sisi Wei](https://twitter.com/sisiwei)
-* ? 
+* ?
 
 ## Quartz Things
 [@QuartzThings](https://twitter.com/quartzthings) / [Website](http://qz.com/re/quartzthings/) / [The Atlas](https://www.theatlas.com/)
@@ -199,25 +215,25 @@ New York City, US / [Website](https://www.propublica.org/data/)
 * [Nikhil Sonnad](https://twitter.com/nkl)
 * [Keith Collins](https://twitter.com/collinskeith)
 * [Sarah Slobin](https://twitter.com/sarahslo)
-* ? 
+* ?
 
 ## Reuters Graphics
 [@ReutersGraphics](https://twitter.com/ReutersGraphics)
-* ? 
+* ?
 
 ## Spiegel
 [Github](https://github.com/spiegelonline)
 * [Achim Tack](https://twitter.com/A_Tack)
 * [Christina Elmer](https://twitter.com/ChElm)
 * [Patrick Stotz](https://twitter.com/PatrickStotz)
-* ? 
+* ?
 
 ## SRF
 Switzerland / [@SRFData](https://twitter.com/srfdata) / [Website](http://www.srf.ch/news/srf-data?srg_shorturl_source=data)
 * [Julian Schmidli](https://twitter.com/julianschmidli)
 * [Timo Grossenbacher](https://twitter.com/grssnbchr)
 * [Pascal Düblin](https://twitter.com/dublinpascal)
-* ? 
+* ?
 
 ## Tagesspiegel Data
 Berlin, Germany / [@tagesspiegel](https://twitter.com/tagesspiegel)
@@ -246,7 +262,7 @@ New York City, US / [@WSJGraphics](https://twitter.com/WSJGraphics) / [Website](
 * [Julia Wolfe](https://twitter.com/juruwolfe)
 * [Jessic Yu](https://twitter.com/UjessU)
 * [Shane Shifflett](https://twitter.com/shaneshifflett)
-* ? 
+* ?
 
 ## ZEIT Online
 Berlin, Germany / [Website](http://zeit.de/datenjournalismus)
@@ -257,7 +273,7 @@ Berlin, Germany / [Website](http://zeit.de/datenjournalismus)
 <br>
 ————
 
-### People who liked that list also like… 
+### People who liked that list also like…
 - [List of Awesome Interactive Journalism projects](https://github.com/wbkd/awesome-interactive-journalism)
 - [OpenNews list of newsrooms, their code and how-to articles](https://source.opennews.org/en-US/organizations/)
 - [Twitter List of Graphics Teams](https://twitter.com/archietse/lists/graphics-departments)
